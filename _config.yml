@@ -2,16 +2,16 @@
 #
 
 # Site settings
-title: Spectral
+title: Sharlene
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+欢迎闯进我的天地
 owner: Sharlene # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: sharlenelixl@gmail.com
-baseurl: "https://chekaiwei.github.io/sharlene.github.io/" # the subpath of your site, e.g. /blog
-url: "https://chekaiwei.github.io/sharlene.github.io/" # the base hostname & protocol for your site
+#baseurl: "https://chekaiwei.github.io/sharlene.github.io/" # the subpath of your site, e.g. /blog
+#url: "https://chekaiwei.github.io/sharlene.github.io/" # the base hostname & protocol for your site
+url: "https://chekaiwei.github.io/sharlene.github.io/"
+baseurl: "https://chekaiwei.github.io/sharlene.github.io/"
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
